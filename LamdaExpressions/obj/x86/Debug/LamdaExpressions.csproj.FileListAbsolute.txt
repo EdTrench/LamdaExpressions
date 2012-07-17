@@ -1,0 +1,5 @@
+C:\Projects\LamdaExpressions\LamdaExpressions\bin\Debug\LamdaExpressions.exe
+C:\Projects\LamdaExpressions\LamdaExpressions\bin\Debug\LamdaExpressions.pdb
+C:\Projects\LamdaExpressions\LamdaExpressions\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projects\LamdaExpressions\LamdaExpressions\obj\x86\Debug\LamdaExpressions.exe
+C:\Projects\LamdaExpressions\LamdaExpressions\obj\x86\Debug\LamdaExpressions.pdb
